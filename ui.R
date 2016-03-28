@@ -11,6 +11,14 @@ shinyUI(fluidPage(
   titlePanel("Temperature Converter"),
   sidebarLayout(
     sidebarPanel(
+      h4("Documentation"),
+      HTML("This application consists of three input elements, <br/> 1. Radio button (to get the user choice of conversion<br/>2. Input Box (to get the value of temperature)<br/> 3. Submit button (To process the conversion in server so that it will display the result.)<br/>"),
+      HTML("Enter the information below to start with this application.")
+      ),
+    mainPanel()
+  ),
+  sidebarLayout(
+    sidebarPanel(
       helpText('Please enter the information below.'),
       fluidRow(
         column(12,
