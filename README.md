@@ -1,8 +1,7 @@
-<h3>Final Project</h3></br>
-<h4>Developing Data Products</h4><br/>
+<h4>Final Project: Developing Data Products</h4><br/>
 <p>
 Application Name: Temperature Converter<br/>
-User html elements<br/>
+<b>Used html entities</b><br/>
 1. Input box<br/>
 2. Radio button<br/>
 3. Submit button<br/>
