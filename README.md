@@ -7,7 +7,7 @@ Application Name: Temperature Converter<br/>
 3. Submit button<br/>
 </p>
 <br/>
-<h4>Introduction</h4><br/>
+<h4>Description</h4><br/>
 This application will be useful to convert temperature from Celsius to Fahrenheit and vice versa. 
 <br/>
 Thanks,<br/>
